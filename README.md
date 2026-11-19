@@ -23,8 +23,8 @@
 
 | Device | Codename | Kernel Project | Base | Highlights |
 | :--- | :--- | :--- | :--- | :--- |
-| **Xiaomi Redmi 9A / 9i / 9C** | `blossom` (`dandelion` / `angelica` / `cattail`) | [**madaraKernel**](https://github.com/zexxadev/niigo_kernel_xiaomi_blossom) | Linux 4.19 | CPU Little OC 1.8 GHz, PowerVR GE8320 GPU OC 730 MHz, ReSukiSU + SUSFS v2.3.0, TCP BBR, NOOP I/O, Deep Sleep & Gaming Tweaks |
-| **Xiaomi Redmi 6A** | `certus` (`cactus` / `cereus`) | [**ZexxaKernel**](https://github.com/zexxadev/ZexxaKernel) | Linux 4.9 | KernelSU integration, MGLRU & ZRAM LZ4 memory optimization for 2GB RAM, WireGuard, Custom VM & Thermal tuning |
+| **Xiaomi Redmi 9A / 9i / 9C** | `blossom` (`dandelion` / `angelica` / `cattail`) | [**madaraKernel**](https://github.com/zexxadev/niigo_kernel_xiaomi_blossom/releases) | Linux 4.19 | CPU Little OC 1.8 GHz, PowerVR GE8320 GPU OC 730 MHz, ReSukiSU + SUSFS v2.3.0, TCP BBR, NOOP I/O, Deep Sleep & Gaming Tweaks |
+| **Xiaomi Redmi 6A** | `certus` (`cactus` / `cereus`) | [**Yahiko Kernel**](https://github.com/zexxadev/ZexxaKernel/releases) | Linux 4.9 | KernelSU integration, MGLRU & ZRAM LZ4 memory optimization for 2GB RAM, WireGuard, Custom VM & Thermal tuning |
 
 ---
 
